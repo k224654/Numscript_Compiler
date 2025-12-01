@@ -1,6 +1,4 @@
 # Numscript_Compiler
-# NumScript Compiler
-
 A complete compiler for the NumScript programming language implemented in a single Python file.
 
 ## 📋 Features
