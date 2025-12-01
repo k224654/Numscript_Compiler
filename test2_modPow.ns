@@ -1,0 +1,6 @@
+let a = 15;
+let b = 4;
+let mod_result = a % b;
+print(mod_result);
+let pow_result = 2 ^ 3;
+print(pow_result);

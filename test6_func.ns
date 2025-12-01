@@ -1,0 +1,4 @@
+let fib1 = fib(6);
+print(fib1);
+let fact1 = fact(5);
+print(fact1);

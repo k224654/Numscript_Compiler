@@ -1,0 +1,8 @@
+let comp1 = 5 == 5;
+print(comp1);
+let comp2 = 5 != 5;
+print(comp2);
+let comp3 = 5 < 10;
+print(comp3);
+let comp4 = 5 > 10;
+print(comp4);

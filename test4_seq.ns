@@ -1,0 +1,2 @@
+seq numbers1 = seq[1, 5, 1];
+print(numbers1);
